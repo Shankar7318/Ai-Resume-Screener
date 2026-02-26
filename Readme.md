@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 AI Resume Screener
 
 A **offline AI-powered Resume Screening system** built with **FastAPI, React, PostgreSQL, and Local Mistral LLM (via Ollama)**. This system automatically analyzes resumes, extracts skills, scores candidates, and provides intelligent hiring recommendations.
@@ -328,6 +328,7 @@ Delete database and restart backend.
 * Multi-agent hiring system
 
 ---
+
 
 
 
@@ -663,4 +664,4 @@ Delete database and restart backend.
 ---
 
 
->>>>>>> c414035 (Added dashboard image)
+
