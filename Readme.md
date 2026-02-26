@@ -14,7 +14,9 @@ Perfect for **HR teams, recruiters, and Autonomous Hiring Agents**.
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ---
+## Output Screenshot
 
+![Output Screenshot](dashboard/output.png)
 # ✨ Features
 
 ## ✅ Core Features
@@ -662,6 +664,7 @@ Delete database and restart backend.
 * Multi-agent hiring system
 
 ---
+
 
 
 
