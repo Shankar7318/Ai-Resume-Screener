@@ -81,7 +81,7 @@ Make sure you have installed:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-resume-screener.git
+git clone https://github.com/Shankar7318/Ai-Resume-Screener.git
 cd ai-resume-screener
 ```
 
@@ -327,5 +327,6 @@ Delete database and restart backend.
 * Multi-agent hiring system
 
 ---
+
 
 
